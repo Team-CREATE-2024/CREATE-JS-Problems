@@ -1,5 +1,6 @@
 # CREATE 첫번째 문제
 > HTML CSS JS
+> 
 > 난이도: 쉬움
 
 * 제공 index.html 파일은 건드리지 않는다.
