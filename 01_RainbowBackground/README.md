@@ -1,5 +1,6 @@
 # CREATE 첫번째 문제
 > HTML CSS JS
+> 난이도: 쉬움
 
 * 제공 index.html 파일은 건드리지 않는다.
 * script.js 파일은 열지 보지 않는다. (정답이기 때문에 절때 보지 않는다.)
