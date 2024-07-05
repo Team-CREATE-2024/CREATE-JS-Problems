@@ -11,6 +11,10 @@
 >* script.js 파일은 보지 않는다.
 >* 문제 풀이후 검사 받는다.
 
+## 검색키워드
+>* addEventListener
+>* innerText, textContent, innerHTML
+
 밑 영상은 페이지를 확대한 영상이므로 요소의 크기를 굳이 키우지 않아도 된다.
 
 https://github.com/Team-CREATE-2024/CREATE-Problems/assets/123725521/b5a394e8-154a-4d2f-ac36-e6ea95aafd5f
