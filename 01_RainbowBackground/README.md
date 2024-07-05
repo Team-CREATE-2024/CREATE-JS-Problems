@@ -11,6 +11,9 @@
 >
 >* 색깔은 1.5초마다 바뀌며 transition 효과를 활용하여 부드럽게 전환되어야 한다.
 
+>### 검색키워드
+>* setInterval
+>* 자바스크립트로 css제어하기
 
 https://github.com/Team-CREATE-2024/CREATE-Problems/assets/123725521/938b5e97-f5e9-4752-b9e5-8c11e3d58899
 
