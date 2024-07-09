@@ -1,4 +1,4 @@
-# CREATE 첫번째 문제
+# CREATE 기초 첫번째 문제
 > HTML CSS JS
 > 
 > 난이도: 쉬움
