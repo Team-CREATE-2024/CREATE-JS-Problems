@@ -1,4 +1,4 @@
-## CREATE 두번째 문제
+## CREATE 기초 두번째 문제
 
 > HTML CSS JS
 >
