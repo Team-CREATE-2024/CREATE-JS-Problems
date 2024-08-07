@@ -1,0 +1,35 @@
+*{
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  color: inherit;
+  list-style: none;
+  box-sizing: border-box;
+}
+body{
+  display: flex;
+  height: 99vh;
+  justify-content: center;
+  align-items: center;
+}
+.box{
+  display: flex;
+  align-items: center;
+  padding: .5em 1em;
+  border-radius: 100px;
+  border: 1px solid rgb(3, 199, 90);
+}
+.box .logo{
+  height: 25px;
+}
+.box input{
+  outline: none;
+  border: none;
+  padding: .5em 1em;
+  font-size: 16px;
+  font-weight: 600;
+}
+.box .glass{
+  height: 25px;
+  cursor: pointer;
+}
