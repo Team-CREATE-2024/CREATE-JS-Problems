@@ -1,0 +1,106 @@
+:root{
+  --background: 186, 206, 224;
+  --user--talk: 255, 235, 51;
+  --otheruser--talk: 255, 255, 255;
+  --send--btn: 242, 242, 242;
+  --send--text: 180, 180, 180;
+  --send--btn--active: 249, 224, 0;
+  --send--text--active: 0, 0, 0;
+}
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+  color: inherit;
+  text-decoration: none;
+}
+body{
+  background-color: rgb(var(--background));
+}
+header{
+  z-index: 1;
+  background-color: rgb(var(--background));
+  position: fixed;
+  padding: 0 15px;
+  display: flex;
+  width: 100%;
+  height: 80px;
+}
+header > .user-detail{
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  font-size: 16px;
+}
+header > .user-detail > .profile{
+  height: 55%;
+  aspect-ratio: 1/1;
+  border-radius: 100%;
+}
+.chat-box{
+  height: calc(100vh - 60px);
+  overflow-y: scroll;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 80px 30px 30px 0px;
+  gap: 20px;
+}
+.chat-box::-webkit-scrollbar{
+  display: none;
+}
+.chat-box > .chat{
+  position: relative;
+  background-color: rgb(var(--user--talk));
+  padding: .5em 1em;
+  border-radius: 5px;
+}
+.chat-box > .chat::after{
+  content: '';
+  position: absolute;
+  width: 20px;
+  aspect-ratio: 1/1;
+  top: 0;
+  right: -10px;
+  clip-path: polygon(0 100%, 100% 50%, 0 0);
+  background-color: rgb(var(--user--talk));
+}
+footer{
+  box-shadow: 1px -1px 5px rgba(0,0,0,.2);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  position: absolute;
+  width: 100%;
+  height: 60px;
+  background-color: #fff;
+  bottom: 0;
+  left: 0;
+}
+footer > .text-input{
+  resize: none;
+  outline: none;
+  border: none;
+  width: 100%;
+  height: 100%;
+}
+footer > .text-input::-webkit-scrollbar{
+  display: none;
+}
+
+footer > .send-btn{
+  white-space: nowrap;
+  background-color: rgb(var(--send--btn));
+  color: rgb(var(--send--text));
+  border: none;
+  border-radius: 5px;
+  padding: .5em 1em;
+}
+
+footer > .send-btn.active{
+  cursor: pointer;
+  background-color: rgb(var(--send--btn--active));
+  color: rgb(var(--send--text--active));
+}
