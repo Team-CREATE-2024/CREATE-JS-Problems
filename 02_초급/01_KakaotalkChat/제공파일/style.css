@@ -1,0 +1,21 @@
+:root{
+  --background: 186, 206, 224;
+  --user--talk: 255, 235, 51;
+  --otheruser--talk: 255, 255, 255;
+  --send--btn: 242, 242, 242;
+  --send--text: 180, 180, 180;
+  --send--btn--active: 249, 224, 0;
+  --send--text--active: 0, 0, 0;
+}
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+  color: inherit;
+  text-decoration: none;
+}
+.example{
+  color: rgb(var(--send--text));
+  background-color: rgb(var(--background));
+}
