@@ -17,6 +17,7 @@
 
 >* setInterval
 >* 자바스크립트로 css제어하기
+>* 자바스크립트 if문 or 자바스크립트 switch문
 
 https://github.com/Team-CREATE-2024/CREATE-Problems/assets/123725521/938b5e97-f5e9-4752-b9e5-8c11e3d58899
 
