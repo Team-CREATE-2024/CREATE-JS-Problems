@@ -16,6 +16,7 @@
 ## 검색키워드
 >* addEventListener
 >* innerText, textContent, innerHTML
+>* 자바스크립트 if문
 
 밑 영상은 페이지를 확대한 영상이므로 요소의 크기를 굳이 키우지 않아도 된다.
 
