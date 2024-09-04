@@ -22,3 +22,4 @@
 
 https://github.com/user-attachments/assets/cafe2afb-9acf-43a7-8c57-6e6bf155015c
 
+정답: https://github.com/Team-CREATE-2024/CREATE-JS-Answer/tree/master/01_%EA%B8%B0%EC%B4%88/04_FindFileType

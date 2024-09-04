@@ -24,3 +24,4 @@
 
 https://github.com/user-attachments/assets/01ee7610-ea20-41f3-b579-2b4938887b98
 
+정답: https://github.com/Team-CREATE-2024/CREATE-JS-Answer/tree/master/01_%EA%B8%B0%EC%B4%88/03_NaverSearch

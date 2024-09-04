@@ -22,3 +22,4 @@
 
 https://github.com/Team-CREATE-2024/CREATE-Problems/assets/123725521/b5a394e8-154a-4d2f-ac36-e6ea95aafd5f
 
+정답: https://github.com/Team-CREATE-2024/CREATE-JS-Answer/tree/master/01_%EA%B8%B0%EC%B4%88/02_CountBtn

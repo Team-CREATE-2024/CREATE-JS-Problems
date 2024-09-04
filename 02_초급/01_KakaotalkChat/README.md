@@ -44,3 +44,4 @@
 
 https://github.com/user-attachments/assets/73d8ea13-10db-4611-ad12-16da3f90157e
 
+정답: https://github.com/Team-CREATE-2024/CREATE-JS-Answer/tree/master/02_%EC%B4%88%EA%B8%89/01_KakaotalkChat
