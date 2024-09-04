@@ -1,7 +1,7 @@
 # CREATE 기초 3번쨰 문제
 > HTML CSS JS
 >
-> 난이도: 쉬움
+> 난이도: ★★☆☆☆☆☆☆☆☆
 
 * image 파일을 제외한 모든 제공파일은 건드리지 않는다.
 * html,css,javascript 파일 모두 손수 작성한다.
